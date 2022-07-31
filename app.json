@@ -1,6 +1,6 @@
 {
-  "name": "GreyMatter-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @GreyMatter_bots",
+  "name": "HoshiDataPhysic",
+  "description": "Service By Ching Yoshi Royotsu",
   "keywords": [
       "telegram",
       "stream",
@@ -12,9 +12,9 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/GreyMatter658/FileStreamBot/tree/main",
+  "repository": "https://github.com/Hacker-Royotsu/HoshiDataPhysic.git",
   "success_url": "/",
-  "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
+  "logo": "https://w7.pngwing.com/pngs/500/498/png-transparent-application-programming-interface-representational-state-transfer-web-api-computer-software-hackathon-api-icon-logo-computer-program-computer-programming-thumbnail.png",
   "website": "avipatilweb.ml",
   "env": {
       "ENV": {
@@ -22,19 +22,20 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "Copy-Paste the app name that you just typed above."
+          "description": "HoshiDataPhysic"
+
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "5571814867:AAFaHoi7I7nHPW_y8EUYuZB760SlbvVd0_E"
       },
       "API_HASH": {
           "description": "Get this value from https://my.telegram.org"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "5571814867:AAFaHoi7I7nHPW_y8EUYuZB760SlbvVd0_E"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "description": "https://t.me/datadeskservice"
           
       },
       "PING_INTERVAL": {
@@ -42,10 +43,10 @@
           "required": false
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in Support Group: https://t.me/linux_repo"
+          "description": "mongodb+srv://chingyoshiroyotsu3ata:<password>@cluster0.tatek.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID"
+          "description": "1721227838"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
@@ -82,7 +83,7 @@
           "required": false
       },
       "SESSION_NAME": {
-          "description": " Session Name for Bot [ Add Moksh_b658 ]",
+          "description": "HoshiDataApi",
           "required": false
       }
   },
