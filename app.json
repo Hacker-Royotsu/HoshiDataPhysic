@@ -43,7 +43,7 @@
           "required": false
       },
       "DATABASE_URL": {
-          "description": "mongodb+srv://chingyoshiroyotsu3ata:<password>@cluster0.tatek.mongodb.net/?retryWrites=true&w=majority"
+          "description": "mongodb+srv://chingyoshiroyotsu3ata:@chingyoshiroyotsu@@cluster0.tatek.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
           "description": "1721227838"
